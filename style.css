@@ -1,0 +1,11 @@
+body {
+    display: flex;
+}
+
+button {
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+p{
+    font-size: 3rem;
+}
